@@ -1,14 +1,8 @@
-# DataCraft-Projekt-MyDreamJob
+# Kundenprojekt als Datenanalyst: „My Dream-Job“
 
-Es sind die scripte vorhanden die ich geschrieben oder an denen ich beteiligt gewesen bin.
-
-Gegebene Aufgabenbeschreibung:
-
-Mit dem  Projekt MyDreamjobs wollen wir useren Studenten die Möglichkeit geben, sich über passende Stellenazeigen
-zu Informieren. Gleichzeitig möchte DataCraft die Daten nutzen, um benötigte Faähigkeiten und insbesondere Veränderungen besser zu verstehen.
-
-Aufgaben:
-- Datenscraping via API & Datensammlung
-- Datenaufbereitung (ggfs. KI-Methoden)
-- Datenaufbereitung & Power BI Dashboard
-- Weiterentwicklung (Web Darstellung / E-Mail-Service, etc.)
+Herausfordernde Datenbeschaffung mit Web-Scraping unter Zuhilfenahme der Bibliothek Selenium in Python
+Erstellen einer soliden Datenbasis in MS Excel
+Exakte Datenbereinigung und -diskretisierung mit Hilfe der Bibliothek Pandas in Python
+Kundenorientierte Visualisierungen mit PowerBI
+Aufbau einer nutzerfreundlichen Datenbank mit PostgreSQL unter Zuhilfenahme der Bilbliothek SQLAlchemie in Python
+ Ziel des Projekts: Passende Stellenanzeigen für die Studenten von „Data-Craft“ sollten herausgefiltert und gleichzeitig die benötigten Fähigkeiten und auch die zukünftig veränderten Anforderungen an die Skills der Teilnehmer sichtbar gemacht werden
